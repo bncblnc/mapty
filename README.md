@@ -24,7 +24,7 @@
     <p>É necessário permitir o acesso a sua localização no navegador. Escolher no mapa o local para registro do exercício com um click, assim abrirá o formulário para registrar os dados. Preenchido, basta dar enter que o exercício ficará registrado.</p>
   <p>Os dados são armazenados no localStorage, sendo resgatados ao abrir novamente.</p>
 </div>
-
+<hr>
 <div align="center">
     <a href="https://github.com/bncblnc"><img height="80" src="https://avatars.githubusercontent.com/u/108829137?v=4"></a>
    <br/><a href="https://www.linkedin.com/in/bncblnc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
