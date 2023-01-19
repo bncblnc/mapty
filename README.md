@@ -1,4 +1,4 @@
-<div align="center"> <img height="40" src="logo-readme.png" alt="Logo" >  </div>
+<div align="center"> <img height="100" src="logo-readme.png" alt="Logo" >  </div>
 <div>
     <p> App para registrar exercícios físicos (corrida e ciclismo) no mapa usando Leaflet API.</p>
     <h3>💻 TECNOLOGIAS:</h3>
